@@ -1,15 +1,16 @@
 package account
 
 import (
-	"PadawanZero/internal/common"
-	"PadawanZero/internal/state"
-	libzk13 "PadawanZero/zero-knowledge"
 	"bytes"
 	"encoding/base64"
 	"errors"
 	"fmt"
 	"math/big"
 	"sync"
+
+	"github.com/genovatix/padawanzero/internal/common"
+	"github.com/genovatix/padawanzero/internal/state"
+	libzk13 "github.com/genovatix/padawanzero/zero-knowledge"
 
 	lru "github.com/hashicorp/golang-lru"
 	jsoniter "github.com/json-iterator/go"

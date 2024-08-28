@@ -1,12 +1,13 @@
 package account
 
 import (
-	"PadawanZero/internal/common"
 	"fmt"
+	"math"
+
+	"github.com/genovatix/padawanzero/internal/common"
 	"go.dedis.ch/kyber/v3"
 	"go.dedis.ch/kyber/v3/group/edwards25519"
 	"go.dedis.ch/kyber/v3/util/random"
-	"math"
 )
 
 // ConvertToPrecisionGrid function converts latitude and longitude into a precision grid.

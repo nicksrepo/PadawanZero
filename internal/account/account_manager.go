@@ -1,11 +1,12 @@
 package account
 
 import (
-	"PadawanZero/internal/state"
 	"errors"
 	"fmt"
-	"github.com/kr/pretty"
 	"sync"
+
+	"github.com/genovatix/padawanzero/internal/state"
+	"github.com/kr/pretty"
 
 	"gonum.org/v1/gonum/mat"
 )

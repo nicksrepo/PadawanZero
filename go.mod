@@ -1,4 +1,4 @@
-module github.com/genovatix/PadawanZero
+module github.com/genovatix/padawanZero
 
 go 1.22
 
@@ -48,3 +48,4 @@ require (
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/zeebo/blake3 v0.2.3
 )
+
