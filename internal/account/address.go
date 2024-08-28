@@ -8,9 +8,9 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/genovatix/padawanzero/internal/common"
-	"github.com/genovatix/padawanzero/internal/state"
-	libzk13 "github.com/genovatix/padawanzero/zero-knowledge"
+	"github.com/nicksrepo/padawanzero/internal/common"
+	"github.com/nicksrepo/padawanzero/internal/state"
+	libzk13 "github.com/nicksrepo/padawanzero/zero-knowledge"
 
 	lru "github.com/hashicorp/golang-lru"
 	jsoniter "github.com/json-iterator/go"

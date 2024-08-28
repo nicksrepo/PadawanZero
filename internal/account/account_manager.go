@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/genovatix/padawanzero/internal/state"
 	"github.com/kr/pretty"
+	"github.com/nicksrepo/padawanzero/internal/state"
 
 	"gonum.org/v1/gonum/mat"
 )

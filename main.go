@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "github.com/genovatix/Padawanzero/cmd"
+import "github.com/nicksrepo/padawanzero/cmd"
 
 func main() {
 	cmd.Execute()

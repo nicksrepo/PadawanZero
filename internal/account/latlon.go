@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/genovatix/padawanzero/internal/common"
+	"github.com/nicksrepo/padawanzero/internal/common"
 	"go.dedis.ch/kyber/v3"
 	"go.dedis.ch/kyber/v3/group/edwards25519"
 	"go.dedis.ch/kyber/v3/util/random"
